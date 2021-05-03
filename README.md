@@ -1,7 +1,7 @@
 # food-order-app
 [View this project](https://quirky-ride-c1bd97.netlify.app/)
 
-![Preview](https://drive.google.com/file/d/1_2AhNBcRoemPFjHZZ5fxN8co7tZMSH0U/view?usp=sharing)
+![Preview](1.png)
 
 I created a simplified version of a food ordering app. 
 First, the user will be greeted with a food list. 
